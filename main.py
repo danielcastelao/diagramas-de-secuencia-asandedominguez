@@ -1,2 +1,2 @@
 class main:
-    print("Hola mundo")
+    print("hola mundo")
