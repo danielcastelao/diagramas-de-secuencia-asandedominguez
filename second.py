@@ -1,4 +1,4 @@
 from main import main
 
-class second:
+class Second:
     print(main)
